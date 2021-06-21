@@ -1,0 +1,19 @@
+h1,
+p {
+  font-family: Lato;
+}
+.header {
+  color: orange;
+}
+.formcenter {
+  text-align: center;
+}
+ tr,th{
+   text-align: center;
+ }
+ 
+ 
+.label {
+  font-weight: bold;
+  color: white;
+}
